@@ -1,0 +1,17 @@
+{
+    "questions": {
+      "Technology": [
+        { "question": "What is your favorite tech stack?" },
+        { "question": "Which development tool do you prefer?" }
+      ],
+      "Health": [
+        { "question": "What is your favorite exercise?" },
+        { "question": "How do you manage stress?" }
+      ],
+      "Education": [
+        { "question": "What was your favorite subject?" },
+        { "question": "Who was your favorite teacher?" }
+      ]
+    }
+  }
+  
